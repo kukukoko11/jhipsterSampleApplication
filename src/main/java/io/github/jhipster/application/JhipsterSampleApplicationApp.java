@@ -55,7 +55,7 @@ public class JhipsterSampleApplicationApp {
     }
 
     /**
-     * Main method, used to run the application.
+     * Main method, used to run the application. Let's see if I can save this change
      *
      * @param args the command line arguments
      * @throws UnknownHostException if the local host name could not be resolved into an address
